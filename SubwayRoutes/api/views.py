@@ -15,7 +15,7 @@ def home(request):
 # Program list “long names” on the console.
 
 @api_view()
-def my_view(request):
+def routes(request):
     api_link = "https://api-v3.mbta.com/routes?filter[type]=0,1"
     response_data = requests.get(api_link).json()
     api_dict = response_data['data']
