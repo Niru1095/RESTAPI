@@ -47,3 +47,7 @@ Ans: The following url fetches the routes in json format and displays it in Djan
 ![image](https://github.com/Niru1095/RESTAPI/blob/master/Postman_screenshots/fewest_stops.png) <br/><br/>
       
 ![image](https://github.com/Niru1095/RESTAPI/blob/master/Postman_screenshots/postman_2_more_routes.png) <br/><br/>
+      
+      
+      ● Virtual environment and requirements.txt must be created.<br/>
+      Ans. Created with name myvenv.
