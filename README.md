@@ -33,10 +33,11 @@ Ans: The following url fetches the routes in json format and displays it in Djan
   
   ![image](https://github.com/Niru1095/RESTAPI/blob/master/DRF_screenshots/drf_fewest_stops.png) <br/><br/>
          
-      c) A list of the stops that connect two or more subway routes along with the relevant route names for each of those stops.
-         Ans. The subway routes with two or more routes are from direction_name ["West", "East"] & ["South", "North"]
+      c) A list of the stops that connect two or more subway routes along with the relevant route names for each of those stops. <br/>
+         Ans. The subway routes with two or more routes are from direction_name ["West", "East"] & ["South", "North"] <br/>
       
-      ![image](https://github.com/Niru1095/RESTAPI/blob/master/DRF_screenshots/drf_routes_2_more.png) <br/><br/>
+      ![image](https://github.com/Niru1095/RESTAPI/blob/master/DRF_screenshots/drf_routes_2_more.png) 
+       <br/><br/>
       
       POSTMAN tool should be utilized for testing INPUT and OUTPUT API endpoint (attach screenshots) <br/><br/>
       
@@ -53,7 +54,7 @@ Ans: The following url fetches the routes in json format and displays it in Djan
       
      
       
-      ● Virtual environment and requirements.txt must be created.
+      ● Virtual environment and requirements.txt must be created.<br/>
       Ans. Created with name myvenv.
       
 
