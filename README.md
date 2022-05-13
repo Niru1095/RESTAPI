@@ -27,11 +27,6 @@ Ans: The following url fetches the routes in json format and displays it in Djan
           Ans. The subway routes with most stops are from direction_name ["West", "East"] and the count is length of list that is 5 are most stops. <br/>
       
   ![image](https://github.com/Niru1095/RESTAPI/blob/master/DRF_screenshots/drf_most_stops.png) <br/><br/>
-  
-      b) The name of the subway route with the fewest stops as well as a count its stops. <br/>
-           Ans. The subway routes with fewest stops are from direction_name ["Outbound", "Inbound"] and the count is length of list that is 1 stop. <br/>
-  
-  ![image](https://github.com/Niru1095/RESTAPI/blob/master/DRF_screenshots/drf_fewest_stops.png) <br/><br/>
       
       c) A list of the stops that connect two or more subway routes along with the relevant route names for each of those stops. <br/>
          Ans. The subway routes with two or more routes are from direction_name ["West", "East"] & ["South", "North"] <br/>
@@ -56,7 +51,14 @@ Ans: The following url fetches the routes in json format and displays it in Djan
       
       ● Virtual environment and requirements.txt must be created.<br/>
       Ans. Created with name myvenv.
-         
+
+  
+      b) The name of the subway route with the fewest stops as well as a count its stops. <br/>
+           Ans. The subway routes with fewest stops are from direction_name ["Outbound", "Inbound"] and the count is length of list that is 1 stop. <br/>
+  
+  ![image](https://github.com/Niru1095/RESTAPI/blob/master/DRF_screenshots/drf_fewest_stops.png) <br/><br/>
+      
+               
       
       
 
