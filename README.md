@@ -35,6 +35,7 @@ Ans: The following url fetches the routes in json format and displays it in Djan
       
       c) A list of the stops that connect two or more subway routes along with the relevant route names for each of those stops. <br/>
          Ans. The subway routes with two or more routes are from direction_name ["West", "East"] & ["South", "North"] <br/>
+      
       ![image](https://github.com/Niru1095/RESTAPI/blob/master/DRF_screenshots/drf_routes_2_more.png) <br/><br/>
       
                
