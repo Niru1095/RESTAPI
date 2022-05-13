@@ -39,6 +39,7 @@ Ans: The following url fetches the routes in json format and displays it in Djan
       
   
      ● POSTMAN tool should be utilized for testing INPUT and OUTPUT API endpoint (attach screenshots) <br/><br/>
+      
       ![image](https://github.com/Niru1095/RESTAPI/blob/master/Postman_screenshots/routes.png) <br/><br/>
       ![image](https://github.com/Niru1095/RESTAPI/blob/master/Postman_screenshots/most_stops.png) <br/><br/>
       ![image](https://github.com/Niru1095/RESTAPI/blob/master/Postman_screenshots/fewest_stops.png) <br/><br/>
