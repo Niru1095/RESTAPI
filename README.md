@@ -24,14 +24,31 @@ Ans: The following url fetches the routes in json format and displays it in Djan
   
   2) Extend your program so it displays the following additional information. <br/>
       a) The name of the subway route with the most stops as well as a count its stops. <br/>
-          Ans. The subway routes with direction_name ["West", "East"] as most stops and the count is length of list that is 5 are most stops. <br/>
+          Ans. The subway routes with most stops are from direction_name ["West", "East"] and the count is length of list that is 5 are most stops. <br/>
       
   ![image](https://github.com/Niru1095/RESTAPI/blob/master/DRF_screenshots/drf_most_stops.png) <br/><br/>
   
       b) The name of the subway route with the fewest stops as well as a count its stops. <br/>
-           Ans. The subway routes with direction_name ["Outbound", "Inbound"] as fewest stops and the count is length of list that is 1 stop. <br/>
+           Ans. The subway routes with fewest stops are from direction_name ["Outbound", "Inbound"] and the count is length of list that is 1 stop. <br/>
   
   ![image](https://github.com/Niru1095/RESTAPI/blob/master/DRF_screenshots/drf_fewest_stops.png) <br/><br/>
+      
+      c) A list of the stops that connect two or more subway routes along with the relevant route names for each of those stops.
+         Ans. The subway routes with two or more routes are from direction_name ["West", "East"] & ["South", "North"]
+      ![image](https://github.com/Niru1095/RESTAPI/blob/master/DRF_screenshots/drf_routes_2_more.png) <br/><br/> <br/><br/>
+      
+  
+     ● POSTMAN tool should be utilized for testing INPUT and OUTPUT API endpoint (attach screenshots) <br/><br/>
+      ![image](https://github.com/Niru1095/RESTAPI/blob/master/Postman_screenshots/routes.png) <br/><br/>
+      ![image](https://github.com/Niru1095/RESTAPI/blob/master/Postman_screenshots/most_stops.png) <br/><br/>
+      ![image](https://github.com/Niru1095/RESTAPI/blob/master/Postman_screenshots/fewest_stops.png) <br/><br/>
+      ![image](https://github.com/Niru1095/RESTAPI/blob/master/Postman_screenshots/postman_2_more_routes.png) <br/><br/>
+      
+      
+      ● Virtual environment and requirements.txt must be created.
+      Ans. Created with name myvenv.
+      
+
   
   
   
